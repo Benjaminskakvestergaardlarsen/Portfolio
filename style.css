@@ -1,0 +1,52 @@
+body {background-color:#d6b588}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  Font-size: 30px;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.maina {
+    width: 34%;
+    Border: 2px solid;
+    padding: 50px;
+    margin: 20px auto;
+    font-size: 100%;
+
+}
+.maint {
+    width: 34%;
+    border: 2px solid;
+    padding: 50px;
+    margin: 20px auto;
+    font-size: 100%;
+}
+
+.Tekst{
+    margin: 20px auto;
+    width: 34%;
+    border: 2px solid;
+    padding: 50px;
+    font-size: 125%;
+}
+
+
+
